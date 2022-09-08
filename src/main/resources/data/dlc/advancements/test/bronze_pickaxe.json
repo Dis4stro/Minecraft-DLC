@@ -1,0 +1,37 @@
+{
+  "parent": "dlc:test/bronze_ingot",
+  "criteria": {
+    "bronze_pickaxe": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dlc:bronze_pickaxe"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.test.bronze_pickaxe.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "dlc:bronze_pickaxe"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.test.bronze_pickaxe.title"
+    }
+  },
+  "requirements": [
+    [
+      "bronze_pickaxe"
+    ]
+  ]
+}

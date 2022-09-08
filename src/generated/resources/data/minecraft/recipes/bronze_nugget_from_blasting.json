@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.1,
+  "ingredient": [
+    {
+      "item": "dlc:bronze_pickaxe"
+    },
+    {
+      "item": "dlc:bronze_shovel"
+    },
+    {
+      "item": "dlc:bronze_axe"
+    },
+    {
+      "item": "dlc:bronze_hoe"
+    },
+    {
+      "item": "dlc:bronze_sword"
+    },
+    {
+      "item": "dlc:bronze_helmet"
+    },
+    {
+      "item": "dlc:bronze_chestplate"
+    },
+    {
+      "item": "dlc:bronze_leggings"
+    },
+    {
+      "item": "dlc:bronze_boots"
+    },
+    {
+      "item": "dlc:bronze_horse_armor"
+    }
+  ],
+  "result": "dlc:bronze_nugget"
+}

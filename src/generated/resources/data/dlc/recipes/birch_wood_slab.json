@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "birch_wood_slab",
+  "key": {
+    "#": {
+      "item": "minecraft:birch_wood"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dlc:birch_wood_slab"
+  }
+}

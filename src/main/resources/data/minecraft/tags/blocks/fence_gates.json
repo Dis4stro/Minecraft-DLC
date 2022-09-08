@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "dlc:baobab_fence_gate",
+    "dlc:stripped_acacia_fence_gate",
+    "dlc:stripped_baobab_fence_gate",
+    "dlc:stripped_birch_fence_gate",
+    "dlc:stripped_dark_oak_fence_gate",
+    "dlc:stripped_jungle_fence_gate",
+    "dlc:stripped_mangrove_fence_gate",
+    "dlc:stripped_oak_fence_gate",
+    "dlc:stripped_spruce_fence_gate",
+    "dlc:stripped_crimson_fence_gate",
+    "dlc:stripped_warped_fence_gate",
+    "dlc:acacia_wood_fence_gate",
+    "dlc:baobab_wood_fence_gate",
+    "dlc:birch_wood_fence_gate",
+    "dlc:dark_oak_wood_fence_gate",
+    "dlc:jungle_wood_fence_gate",
+    "dlc:mangrove_wood_fence_gate",
+    "dlc:oak_wood_fence_gate",
+    "dlc:spruce_wood_fence_gate",
+    "dlc:crimson_hyphae_fence_gate",
+    "dlc:warped_hyphae_fence_gate"
+  ]
+}

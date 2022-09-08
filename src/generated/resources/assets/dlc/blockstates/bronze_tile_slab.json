@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dlc:block/bronze_tile_slab"
+    },
+    "type=double": {
+      "model": "dlc:block/bronze_tiles"
+    },
+    "type=top": {
+      "model": "dlc:block/bronze_tile_slab_top"
+    }
+  }
+}

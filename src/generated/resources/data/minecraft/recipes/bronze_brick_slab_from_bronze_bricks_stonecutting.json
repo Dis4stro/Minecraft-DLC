@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "dlc:bronze_bricks"
+  },
+  "result": "dlc:bronze_brick_slab"
+}

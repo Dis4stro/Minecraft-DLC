@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "spruce_wood_stairs",
+  "ingredients": [
+    {
+      "item": "dlc:spruce_wood_stairs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:spruce_stairs"
+  }
+}

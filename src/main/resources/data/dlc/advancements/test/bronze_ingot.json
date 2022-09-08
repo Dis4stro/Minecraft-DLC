@@ -1,0 +1,37 @@
+{
+  "parent": "dlc:test/raw_tin",
+  "criteria": {
+    "bronze_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dlc:bronze_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.test.bronze_ingot.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "dlc:bronze_ingot"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.test.bronze_ingot.title"
+    }
+  },
+  "requirements": [
+    [
+      "bronze_ingot"
+    ]
+  ]
+}

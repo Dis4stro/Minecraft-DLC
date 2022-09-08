@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jungle_wood_slab",
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_wood"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dlc:jungle_wood_slab"
+  }
+}

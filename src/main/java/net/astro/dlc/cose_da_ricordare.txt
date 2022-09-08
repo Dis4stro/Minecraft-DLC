@@ -1,0 +1,16 @@
+Formula danno attrezzo =
+Danno Mano Nuda + Danno base materiale + AttackDamageModifier
+1 + X + Y = TOT DAMAGE
+__________________________
+In ModConfiguredFeature, prima del .build(), metti un .dirt(*blocco*) per settare il blocco sul quale può essere posizionato
+il sapling
+-----------------------------
+
+Dente di leone leggero (Leviazione)
+Rosa velenosa (Veleno) (anche se c'è già la rosa di wither quindi cambia che è meglio)
+Tulipano notturno (Visione Notturna)
+Margherita acquatica (Respirazione subacquea)
+Girasole focoso (Resistenza al fuoco)
+
+Fare sti fiori piantabili e permettere di creare pozioni più o meno forti
+

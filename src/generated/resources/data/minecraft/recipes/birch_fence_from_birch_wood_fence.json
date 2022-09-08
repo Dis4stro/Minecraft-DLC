@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "birch_wood_fence",
+  "ingredients": [
+    {
+      "item": "dlc:birch_wood_fence"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:birch_fence"
+  }
+}

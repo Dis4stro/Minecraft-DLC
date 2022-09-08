@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bronze_ingot",
+  "key": {
+    "#": {
+      "item": "dlc:bronze_nugget"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "item": "dlc:bronze_ingot"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_pressure_plate",
+  "key": {
+    "#": {
+      "item": "dlc:baobab_planks"
+    }
+  },
+  "pattern": [
+    "##"
+  ],
+  "result": {
+    "item": "dlc:baobab_pressure_plate"
+  }
+}

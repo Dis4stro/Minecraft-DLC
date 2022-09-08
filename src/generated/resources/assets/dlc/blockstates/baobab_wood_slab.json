@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dlc:block/baobab_wood_slab"
+    },
+    "type=double": {
+      "model": "dlc:block/baobab_wood"
+    },
+    "type=top": {
+      "model": "dlc:block/baobab_wood_slab_top"
+    }
+  }
+}

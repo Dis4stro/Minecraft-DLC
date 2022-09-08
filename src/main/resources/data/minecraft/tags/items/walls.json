@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "dlc:polished_granite_wall",
+    "dlc:polished_diorite_wall",
+    "dlc:polished_andesite_wall",
+    "dlc:bronze_wall",
+    "dlc:bronze_bricks_wall",
+    "dlc:bronze_tiles_wall",
+    "dlc:chiseled_bronze_wall",
+    "dlc:copper_wall",
+    "dlc:weathered_copper_wall",
+    "dlc:exposed_copper_wall",
+    "dlc:oxidized_copper_wall",
+    "dlc:waxed_copper_wall",
+    "dlc:waxed_weathered_copper_wall",
+    "dlc:waxed_exposed_copper_wall",
+    "dlc:waxed_oxidized_copper_wall"
+  ]
+}

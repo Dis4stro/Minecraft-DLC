@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "warped_hyphae_slab",
+  "ingredients": [
+    {
+      "item": "dlc:warped_hyphae_slab"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:warped_slab"
+  }
+}

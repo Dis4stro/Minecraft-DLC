@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stripped_acacia_slab",
+  "ingredients": [
+    {
+      "item": "dlc:stripped_acacia_slab"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:acacia_slab"
+  }
+}

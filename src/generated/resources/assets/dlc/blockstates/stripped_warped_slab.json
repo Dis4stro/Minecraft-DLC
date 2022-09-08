@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dlc:block/stripped_warped_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/stripped_warped_hyphae"
+    },
+    "type=top": {
+      "model": "dlc:block/stripped_warped_slab_top"
+    }
+  }
+}

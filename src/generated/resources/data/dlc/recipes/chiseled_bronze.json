@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bronze_block_chiseled",
+  "key": {
+    "#": {
+      "item": "dlc:bronze_slab"
+    }
+  },
+  "pattern": [
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "dlc:chiseled_bronze"
+  }
+}

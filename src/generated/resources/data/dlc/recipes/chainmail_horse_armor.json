@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "tag": "minecraft:wool_carpets"
+    },
+    "H": {
+      "item": "minecraft:chain"
+    }
+  },
+  "pattern": [
+    "  H",
+    "HCH",
+    "HHH"
+  ],
+  "result": {
+    "item": "dlc:chainmail_horse_armor"
+  }
+}

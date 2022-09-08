@@ -1,0 +1,35 @@
+{
+  "battery_died": {
+    "subtitle": "sounds.dlc.battery_died",
+    "sounds": [
+      "dlc:battery_died"
+    ]
+  },
+
+  "ice_disc": {
+    "sounds": [
+      {
+        "name": "dlc:ice",
+        "stream": true
+      }
+    ]
+  },
+
+  "ender_dragon_disc": {
+    "sounds": [
+      {
+        "name": "dlc:the_ender_dragon",
+        "stream": true
+      }
+    ]
+  },
+
+  "lush_disc": {
+    "sounds": [
+      {
+        "name": "dlc:lush",
+        "stream": true
+      }
+    ]
+  }
+}

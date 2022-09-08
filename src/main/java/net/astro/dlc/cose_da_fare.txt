@@ -1,0 +1,4 @@
+
+^: Aggiungere traduzioni
+
+Modificare ricette pozioni quando aggiungerò più item

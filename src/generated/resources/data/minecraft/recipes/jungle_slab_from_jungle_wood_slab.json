@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jungle_wood_slab",
+  "ingredients": [
+    {
+      "item": "dlc:jungle_wood_slab"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:jungle_slab"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "crimson_hyphae_stairs",
+  "key": {
+    "#": {
+      "item": "minecraft:crimson_hyphae"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "dlc:crimson_hyphae_stairs"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bronze_tiles_wall",
+  "key": {
+    "#": {
+      "item": "dlc:bronze_tiles"
+    }
+  },
+  "pattern": [
+    "###",
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dlc:bronze_tile_wall"
+  }
+}

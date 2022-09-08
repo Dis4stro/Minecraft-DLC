@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stripped_crimson_slab",
+  "ingredients": [
+    {
+      "item": "dlc:stripped_crimson_slab"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:crimson_slab"
+  }
+}

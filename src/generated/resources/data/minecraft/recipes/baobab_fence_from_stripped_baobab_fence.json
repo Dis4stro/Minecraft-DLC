@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stripped_baobab_fence",
+  "ingredients": [
+    {
+      "item": "dlc:stripped_baobab_fence"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "dlc:baobab_fence"
+  }
+}

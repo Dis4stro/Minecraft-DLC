@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ stripped_jungle_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dlc:stripped_jungle_slab"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:jungle_slab_from_stripped_jungle_slab"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_ stripped_jungle_slab",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:jungle_slab_from_stripped_jungle_slab"
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "spruce_wood_fence_gate",
+  "ingredients": [
+    {
+      "item": "dlc:spruce_wood_fence_gate"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:spruce_fence_gate"
+  }
+}

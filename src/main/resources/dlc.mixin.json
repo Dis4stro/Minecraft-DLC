@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "net.astro.dlc.mixin.client",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "MixinEntity",
+    "MixinLivingEntityRenderer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "dlc.mixin-refmap.json",
+  "plugin": "net.astro.dlc.mixin.DLCMixinPlugin",
+  "minVersion": "0.8"
+}

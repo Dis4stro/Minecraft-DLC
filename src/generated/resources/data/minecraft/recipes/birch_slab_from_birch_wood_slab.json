@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "birch_wood_slab",
+  "ingredients": [
+    {
+      "item": "dlc:birch_wood_slab"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:birch_slab"
+  }
+}

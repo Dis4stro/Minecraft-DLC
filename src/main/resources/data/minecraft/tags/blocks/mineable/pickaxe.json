@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "dlc:aluminium_ore",
+    "dlc:deepslate_aluminium_ore",
+    "dlc:aluminium_block",
+    "dlc:raw_aluminium_block",
+    "dlc:tin_ore",
+    "dlc:deepslate_tin_ore",
+    "dlc:tin_block",
+    "dlc:raw_tin_block",
+    "dlc:bronze_block",
+    "dlc:bronze_bricks",
+    "dlc:bronze_tiles",
+    "dlc:chiseled_bronze"
+  ]
+}

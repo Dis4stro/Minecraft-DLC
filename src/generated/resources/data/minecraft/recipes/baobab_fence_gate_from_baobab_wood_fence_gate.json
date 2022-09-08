@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "baobab_wood_fence_gate",
+  "ingredients": [
+    {
+      "item": "dlc:baobab_wood_fence_gate"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "dlc:baobab_fence_gate"
+  }
+}

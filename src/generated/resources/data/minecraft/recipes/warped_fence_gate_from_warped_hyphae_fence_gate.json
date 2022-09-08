@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "warped_hyphae_fence_gate",
+  "ingredients": [
+    {
+      "item": "dlc:warped_hyphae_fence_gate"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:warped_fence_gate"
+  }
+}

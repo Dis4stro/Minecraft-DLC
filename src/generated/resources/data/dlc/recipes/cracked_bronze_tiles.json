@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "item": "dlc:bronze_tiles"
+  },
+  "result": "dlc:cracked_bronze_tiles"
+}

@@ -1,0 +1,37 @@
+{
+  "parent": "dlc:test/root",
+  "criteria": {
+    "raw_tin": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dlc:raw_tin"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancements.test.raw_tin.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "dlc:raw_tin"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancements.test.raw_tin.title"
+    }
+  },
+  "requirements": [
+    [
+      "raw_tin"
+    ]
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stripped_baobab_wood_slab",
+  "key": {
+    "#": {
+      "item": "dlc:stripped_baobab_wood"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dlc:stripped_baobab_slab"
+  }
+}

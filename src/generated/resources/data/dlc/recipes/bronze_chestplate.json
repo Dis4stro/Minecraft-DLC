@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "dlc:bronze_ingot"
+    }
+  },
+  "pattern": [
+    "B B",
+    "BBB",
+    "BBB"
+  ],
+  "result": {
+    "item": "dlc:bronze_chestplate"
+  }
+}

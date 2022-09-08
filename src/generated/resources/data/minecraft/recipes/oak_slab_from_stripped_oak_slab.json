@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stripped_oak_slab",
+  "ingredients": [
+    {
+      "item": "dlc:stripped_oak_slab"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:oak_slab"
+  }
+}

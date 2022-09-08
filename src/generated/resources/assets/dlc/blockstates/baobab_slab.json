@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dlc:block/baobab_slab"
+    },
+    "type=double": {
+      "model": "dlc:block/baobab_planks"
+    },
+    "type=top": {
+      "model": "dlc:block/baobab_slab_top"
+    }
+  }
+}

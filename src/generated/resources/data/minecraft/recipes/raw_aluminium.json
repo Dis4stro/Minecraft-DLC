@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "dlc:raw_aluminium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "dlc:raw_aluminium"
+  }
+}

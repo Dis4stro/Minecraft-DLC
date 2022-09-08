@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "dlc:baobab_stairs",
+    "dlc:stripped_acacia_stairs",
+    "dlc:stripped_baobab_stairs",
+    "dlc:stripped_birch_stairs",
+    "dlc:stripped_dark_oak_stairs",
+    "dlc:stripped_jungle_stairs",
+    "dlc:stripped_mangrove_stairs",
+    "dlc:stripped_oak_stairs",
+    "dlc:stripped_spruce_stairs",
+    "dlc:stripped_crimson_stairs",
+    "dlc:stripped_warped_stairs",
+    "dlc:acacia_wood_stairs",
+    "dlc:baobab_wood_stairs",
+    "dlc:birch_wood_stairs",
+    "dlc:dark_oak_wood_stairs",
+    "dlc:jungle_wood_stairs",
+    "dlc:mangrove_wood_stairs",
+    "dlc:oak_wood_stairs",
+    "dlc:spruce_wood_stairs",
+    "dlc:crimson_hyphae_stairs",
+    "dlc:warped_hyphae_stairs",
+    "dlc:bronze_stairs",
+    "dlc:bronze_brick_stairs",
+    "dlc:bronze_tile_stairs"
+  ]
+}

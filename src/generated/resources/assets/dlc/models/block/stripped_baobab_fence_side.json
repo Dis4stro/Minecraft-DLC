@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "dlc:block/stripped_baobab_log"
+  }
+}

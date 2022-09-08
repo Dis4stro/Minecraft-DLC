@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dlc:block/stripped_baobab_slab"
+    },
+    "type=double": {
+      "model": "dlc:block/stripped_baobab_wood"
+    },
+    "type=top": {
+      "model": "dlc:block/stripped_baobab_slab_top"
+    }
+  }
+}

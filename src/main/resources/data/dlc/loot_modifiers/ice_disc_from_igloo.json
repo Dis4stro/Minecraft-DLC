@@ -1,0 +1,10 @@
+{
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:chests/igloo_chest"
+    }
+  ],
+  "addition": "dlc:music_disc_ice",
+  "type": "dlc:ice_disc_from_snowy_biome"
+}

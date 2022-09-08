@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "dlc:tin_ore",
+    "dlc:deepslate_tin_ore",
+    "dlc:tin_block",
+    "dlc:raw_tin_block",
+    "dlc:copper_wall",
+    "dlc:exposed_copper_wall",
+    "dlc:oxidized_copper_wall",
+    "dlc:weathered_copper_wall",
+    "dlc:waxed_copper_wall",
+    "dlc:waxed_exposed_copper_wall",
+    "dlc:waxed_oxidized_copper_wall",
+    "dlc:waxed_weathered_copper_wall"
+  ]
+}

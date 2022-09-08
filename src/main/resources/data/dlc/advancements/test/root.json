@@ -1,0 +1,37 @@
+{
+  "criteria": {
+    "crafting_table": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:crafting_table"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "dlc:textures/block/bronze_bricks.png",
+    "description": {
+      "translate": "advancements.test.root.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "dlc:bronze_bricks"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.test.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "crafting_table"
+    ]
+  ]
+}

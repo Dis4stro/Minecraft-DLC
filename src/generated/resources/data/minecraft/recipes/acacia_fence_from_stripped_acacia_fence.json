@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "stripped_acacia_fence",
+  "ingredients": [
+    {
+      "item": "dlc:stripped_acacia_fence"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:acacia_fence"
+  }
+}

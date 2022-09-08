@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jungle_wood_stairs",
+  "ingredients": [
+    {
+      "item": "dlc:jungle_wood_stairs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:jungle_stairs"
+  }
+}

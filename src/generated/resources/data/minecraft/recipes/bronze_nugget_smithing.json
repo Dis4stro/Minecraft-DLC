@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "dlc:tin_nugget"
+  },
+  "base": {
+    "item": "dlc:copper_nugget"
+  },
+  "result": {
+    "item": "dlc:bronze_nugget"
+  }
+}

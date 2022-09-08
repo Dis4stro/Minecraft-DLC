@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dlc:block/stripped_jungle_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/stripped_jungle_wood"
+    },
+    "type=top": {
+      "model": "dlc:block/stripped_jungle_slab_top"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "waxed_copper_wall",
+  "ingredients": [
+    {
+      "item": "dlc:copper_wall"
+    },
+    {
+      "item": "minecraft:honeycomb"
+    }
+  ],
+  "result": {
+    "item": "dlc:waxed_copper_wall"
+  }
+}

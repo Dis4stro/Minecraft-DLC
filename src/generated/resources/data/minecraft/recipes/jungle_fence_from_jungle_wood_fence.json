@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "jungle_wood_fence",
+  "ingredients": [
+    {
+      "item": "dlc:jungle_wood_fence"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:jungle_fence"
+  }
+}

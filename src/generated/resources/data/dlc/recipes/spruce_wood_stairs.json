@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "spruce_wood_stairs",
+  "key": {
+    "#": {
+      "item": "minecraft:spruce_wood"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "dlc:spruce_wood_stairs"
+  }
+}

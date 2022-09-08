@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": {
+      "item": "dlc:bronze_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "BBB",
+    " S ",
+    " S "
+  ],
+  "result": {
+    "item": "dlc:bronze_pickaxe"
+  }
+}

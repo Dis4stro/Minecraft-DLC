@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "dlc:block/raw_tin_block"
+    }
+  }
+}

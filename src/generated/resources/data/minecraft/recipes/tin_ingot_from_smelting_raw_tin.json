@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 0.5,
+  "group": "tin_ingot",
+  "ingredient": {
+    "item": "dlc:raw_tin"
+  },
+  "result": "dlc:tin_ingot"
+}

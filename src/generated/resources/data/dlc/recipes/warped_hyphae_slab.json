@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "warped_hyphae_slab",
+  "key": {
+    "#": {
+      "item": "minecraft:warped_hyphae"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "count": 6,
+    "item": "dlc:warped_hyphae_slab"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "tag": "minecraft:wool_carpets"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "  L",
+    "LCL",
+    "LLL"
+  ],
+  "result": {
+    "item": "minecraft:leather_horse_armor"
+  }
+}

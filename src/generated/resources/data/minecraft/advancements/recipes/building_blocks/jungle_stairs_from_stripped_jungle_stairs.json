@@ -1,0 +1,34 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ stripped_jungle_stairs": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "dlc:stripped_jungle_stairs"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "minecraft:jungle_stairs_from_stripped_jungle_stairs"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_ stripped_jungle_stairs",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "minecraft:jungle_stairs_from_stripped_jungle_stairs"
+    ]
+  }
+}

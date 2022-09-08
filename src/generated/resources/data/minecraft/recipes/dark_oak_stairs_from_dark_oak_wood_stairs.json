@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dark_oak_wood_stairs",
+  "ingredients": [
+    {
+      "item": "dlc:dark_oak_wood_stairs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:dark_oak_stairs"
+  }
+}

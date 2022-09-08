@@ -1,0 +1,5 @@
+{
+  "type": "dlc:vegetal",
+  "biomes": "#forge:is_snowy",
+  "feature": "dlc:snowy_mature_dandelion_placed"
+}

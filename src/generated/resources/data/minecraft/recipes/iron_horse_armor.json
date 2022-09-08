@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "tag": "minecraft:wool_carpets"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "pattern": [
+    "  I",
+    "ICI",
+    "III"
+  ],
+  "result": {
+    "item": "minecraft:iron_horse_armor"
+  }
+}

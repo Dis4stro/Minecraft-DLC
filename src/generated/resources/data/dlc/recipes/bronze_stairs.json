@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bronze_block_stairs",
+  "key": {
+    "#": {
+      "item": "dlc:bronze_block"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "dlc:bronze_stairs"
+  }
+}

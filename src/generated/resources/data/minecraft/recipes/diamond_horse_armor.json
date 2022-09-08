@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "C": {
+      "tag": "minecraft:wool_carpets"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "  D",
+    "DCD",
+    "DDD"
+  ],
+  "result": {
+    "item": "minecraft:diamond_horse_armor"
+  }
+}

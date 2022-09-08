@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:wooden_fences",
+    "#minecraft:wooden_trapdoors",
+    "#minecraft:wooden_pressure_plates",
+    "#minecraft:wooden_doors",
+    "#minecraft:fence_gates",
+    "#minecraft:wooden_buttons"
+  ]
+}

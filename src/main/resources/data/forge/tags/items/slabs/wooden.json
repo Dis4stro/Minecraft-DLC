@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "dlc:baobab_slab",
+    "dlc:stripped_acacia_slab",
+    "dlc:stripped_baobab_slab",
+    "dlc:stripped_birch_slab",
+    "dlc:stripped_dark_oak_slab",
+    "dlc:stripped_jungle_slab",
+    "dlc:stripped_mangrove_slab",
+    "dlc:stripped_oak_slab",
+    "dlc:stripped_spruce_slab",
+    "dlc:acacia_wood_slab",
+    "dlc:baobab_wood_slab",
+    "dlc:birch_wood_slab",
+    "dlc:dark_oak_wood_slab",
+    "dlc:jungle_wood_slab",
+    "dlc:mangrove_wood_slab",
+    "dlc:oak_wood_slab",
+    "dlc:spruce_wood_slab"
+  ]
+}

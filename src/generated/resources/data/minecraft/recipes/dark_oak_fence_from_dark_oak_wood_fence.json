@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "dark_oak_wood_fence",
+  "ingredients": [
+    {
+      "item": "dlc:dark_oak_wood_fence"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "minecraft:dark_oak_fence"
+  }
+}

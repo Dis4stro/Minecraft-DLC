@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "dlc:aluminium_ingot"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "pattern": [
+    "ICC",
+    "RAA",
+    "ICC"
+  ],
+  "result": {
+    "item": "dlc:chainsaw"
+  }
+}

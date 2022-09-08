@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "dlc:block/stripped_dark_oak_slab"
+    },
+    "type=double": {
+      "model": "minecraft:block/stripped_dark_oak_wood"
+    },
+    "type=top": {
+      "model": "dlc:block/stripped_dark_oak_slab_top"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "jungle_wood_stairs",
+  "key": {
+    "#": {
+      "item": "minecraft:jungle_wood"
+    }
+  },
+  "pattern": [
+    "#  ",
+    "## ",
+    "###"
+  ],
+  "result": {
+    "count": 4,
+    "item": "dlc:jungle_wood_stairs"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "baobab_wood_stairs",
+  "ingredients": [
+    {
+      "item": "dlc:baobab_wood_stairs"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "dlc:baobab_stairs"
+  }
+}

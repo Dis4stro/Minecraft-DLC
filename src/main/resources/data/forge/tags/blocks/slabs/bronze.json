@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "dlc:bronze_slab",
+    "dlc:bronze_brick_slab",
+    "dlc:bronze_tile_slab"
+  ]
+}
